@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/cckings/nodeKoa#readme",
   "dependencies": {
-    "koa": "^2.4.1"
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^3.2.0"
   }
 }
